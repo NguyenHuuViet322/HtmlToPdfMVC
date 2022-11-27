@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LAB4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LAB4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27092022020944.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27092022020944.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27552022015543.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27552022015543.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27562022015635.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27562022015635.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_00_2022_03_00_28.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_00_2022_03_00_28.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_05_2022_03_05_06.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_05_2022_03_05_06.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_08_2022_03_08_16.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_08_2022_03_08_16.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_10_2022_05_10_59.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_10_2022_05_10_59.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_13_2022_05_13_33.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_13_2022_05_13_33.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_16_2022_05_16_32.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_16_2022_05_16_32.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_18_2022_05_18_22.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_18_2022_05_18_22.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_21_2022_05_21_52.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_21_2022_05_21_52.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_24_2022_11_24_36.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_24_2022_11_24_36.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_25_2022_05_25_29.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_25_2022_05_25_29.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_28_2022_03_28_16.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_28_2022_03_28_16.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_28_2022_05_28_17.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_28_2022_05_28_17.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_28_2022_05_28_25.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_28_2022_05_28_25.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_28_2022_05_28_46.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_28_2022_05_28_46.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_31_2022_03_31_34.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_31_2022_03_31_34.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_37_2022_02_37_22.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_37_2022_02_37_22.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_38_2022_02_38_50.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_38_2022_02_38_50.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_41_2022_02_41_09.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_41_2022_02_41_09.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_42_2022_02_42_50.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_42_2022_02_42_50.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_43_2022_02_43_29.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_43_2022_02_43_29.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_49_2022_02_49_35.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_49_2022_02_49_35.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_50_2022_02_50_41.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_50_2022_02_50_41.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_51_2022_02_51_55.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_51_2022_02_51_55.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_52_2022_02_52_10.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_52_2022_02_52_10.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_53_2022_02_53_51.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_53_2022_02_53_51.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_54_2022_02_54_09.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_54_2022_02_54_09.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_54_2022_02_54_54.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_54_2022_02_54_54.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_55_2022_02_55_14.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_55_2022_02_55_14.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_57_2022_02_57_32.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_57_2022_02_57_32.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\pdf\\27_58_2022_02_58_48.pdf",
+      "PackagePath": "staticwebassets\\pdf\\27_58_2022_02_58_48.pdf"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\xlsx\\27_54_2022_04_54_43.xlsx",
+      "PackagePath": "staticwebassets\\xlsx\\27_54_2022_04_54_43.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\xlsx\\27_56_2022_04_56_07.xlsx",
+      "PackagePath": "staticwebassets\\xlsx\\27_56_2022_04_56_07.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\xlsx\\27_56_2022_04_56_09.xlsx",
+      "PackagePath": "staticwebassets\\xlsx\\27_56_2022_04_56_09.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\VietMK\\source\\repos\\LAB4\\LAB4\\wwwroot\\xlsx\\27_56_2022_04_56_59.xlsx",
+      "PackagePath": "staticwebassets\\xlsx\\27_56_2022_04_56_59.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LAB4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LAB4.props",
+      "PackagePath": "build\\LAB4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LAB4.props",
+      "PackagePath": "buildMultiTargeting\\LAB4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LAB4.props",
+      "PackagePath": "buildTransitive\\LAB4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

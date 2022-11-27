@@ -1,0 +1,37 @@
+﻿@model List<HistoryItem>
+
+<div class="col-md-12">
+	<div class="card">
+		<div class="card-header bg bg-primary text text-white font-weight-bold">Lịch sử chuyển đổi</div>
+		<div class="card-body">
+			<table style="width:100%">
+				<thead>
+					<tr>
+						<th>STT</th>
+						<th>URL</th>
+						<th>Thời điểm</th>
+						<th>Trạng thái</th>
+					</tr>
+				</thead>
+				<tbody>
+					@{
+						int rownum = 1;
+						foreach(var item in @Model)
+						{
+							<tr>
+								<th>@rownum</th>
+								<th style="width:40%">@item.Url</th>
+								<th>@item.TimeAct.ToString("dd-MM-yyyy hh:mm:ss")</th>
+								<th>@item.Status</th>
+							</tr>
+							rownum++;
+						}
+					}
+				</tbody>
+			</table>
+		</div>
+		<div class="card-footer">
+			<a asp-action="ExportXlsx" asp-controller="Handler"><button class="btn btn-primary mt-3">Xuất ra file Excel</button></a>
+		</div>
+	</div>
+</div>

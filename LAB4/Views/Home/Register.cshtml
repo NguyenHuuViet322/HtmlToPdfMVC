@@ -1,0 +1,57 @@
+﻿@model User
+
+<div class="row justify-content-md-center">
+    <div class="col-md-6">
+        <section class="card">
+            <form asp-controller="Home" asp-action="Register" method="post">
+                <h4 class="card-header">Tạo tài khoản mới trên website.</h4>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="card-body m-2">
+                    <div class="form-group">
+                        <label asp-for="Name" class="col-md-10 control-label"></label>
+                        <div class="col-md-10">
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="UserName" class="col-md-10 control-label"></label>
+                        <div class="col-md-10">
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="Password" class="col-md-10 control-label"></label>
+                        <div class="col-md-10">
+                            <input asp-for="Password" type="password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="PasswordConfirms" class="col-md-10 control-label"></label>
+                        <div class="col-md-10">
+                            <input asp-for="PasswordConfirms" type="password" class="form-control" />
+                            <span asp-validation-for="PasswordConfirms" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group mt-4">
+                        <div class="col-md-offset-2 col-md-10">
+                            <button type="submit" class="btn btn-primary">Đăng ký</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            @{
+                if (ViewBag.Error != null)
+                {
+                    <div class="card-footer">
+                        <div class="alert alert-danger">
+                            <p>@ViewBag.Error</p>
+                        </div>
+                    </div>
+                }
+            }
+        </section>
+    </div>
+</div>
